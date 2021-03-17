@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Portfolio-NasaApi/static/css/main.d6273c52.chunk.css",
+    "main.js": "/Portfolio-NasaApi/static/js/main.8b870d5a.chunk.js",
+    "main.js.map": "/Portfolio-NasaApi/static/js/main.8b870d5a.chunk.js.map",
+    "runtime-main.js": "/Portfolio-NasaApi/static/js/runtime-main.a5368592.js",
+    "runtime-main.js.map": "/Portfolio-NasaApi/static/js/runtime-main.a5368592.js.map",
+    "static/js/2.e1676f9f.chunk.js": "/Portfolio-NasaApi/static/js/2.e1676f9f.chunk.js",
+    "static/js/2.e1676f9f.chunk.js.map": "/Portfolio-NasaApi/static/js/2.e1676f9f.chunk.js.map",
+    "index.html": "/Portfolio-NasaApi/index.html",
+    "precache-manifest.f8b52d9bdd95a05747b975835b638e87.js": "/Portfolio-NasaApi/precache-manifest.f8b52d9bdd95a05747b975835b638e87.js",
+    "service-worker.js": "/Portfolio-NasaApi/service-worker.js",
+    "static/css/main.d6273c52.chunk.css.map": "/Portfolio-NasaApi/static/css/main.d6273c52.chunk.css.map",
+    "static/js/2.e1676f9f.chunk.js.LICENSE.txt": "/Portfolio-NasaApi/static/js/2.e1676f9f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a5368592.js",
+    "static/js/2.e1676f9f.chunk.js",
+    "static/css/main.d6273c52.chunk.css",
+    "static/js/main.8b870d5a.chunk.js"
+  ]
+}
