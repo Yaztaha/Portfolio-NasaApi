@@ -5,7 +5,7 @@ export default function NavBar() {
     return (
         <div className="navbar">
             <ul>
-                <Link className="link" to="/" exact >Take Me Home</Link>
+                <Link className="link" to="/PortfolioNasaApi" exact >Take Me Home</Link>
             </ul>
         </div>
     )
