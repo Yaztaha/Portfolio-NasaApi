@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import NavBar from "./NavBar";
 
-consta apiKey = process.env.REACT_APP_NASA_KEY;
+const apiKey = process.env.REACT_APP_NASA_KEY;
 
 export default function NasaPhoto() {
   const [photoData, setPhotoData] = useState(null);
